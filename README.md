@@ -48,5 +48,11 @@ Rodanna Konstantinidi, Aristotle University of Thessaloniki
 
 Elena Triantafyllidi, Aristotle University of Thessaloniki
 
+
 **To cite this work**
+
+
+**Acknowledgements**
+
+This research was supported by the National Recovery and Resilience Plan (NRRP) “Greece 2000” under the ``Clusters of Research Excellence'' (CREs) program, SUB1.1, with project code \textgreek{ΟΠΣ ΤΑ 5180519} and title ``Interactive Agent with Emotional Intelligence for Second/Foreign Language Learning'', Acronym: ``EmoBot''.
 
