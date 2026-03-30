@@ -5,12 +5,22 @@ The classifier is designed to detect both explicit and implicit toxic language i
 - detoxification pipelines
 The work emphasizes linguistically informed annotation and ethically grounded NLP practices.
 
+**Repository structure**
+```bash
+.
+├── data/              # Datasets (DE, EL splits)
+├── models/            # Trained models (to be added)
+├── src/               # Training, evaluation, inference scripts
+├── results/           # Evaluation outputs
+└── README.md
+```
 
 **Datasets**
 
 The dataset consists of German (DE) and Greek (EL) data.
 
 The corpus has been split into training, development, and test sets.
+
 
 | Language     | Dev | Train | Test | Total |
 |--------------|-----|-------|------|-------|
