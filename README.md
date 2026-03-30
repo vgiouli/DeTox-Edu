@@ -8,7 +8,7 @@ The work emphasizes linguistically informed annotation and ethically grounded NL
 **Repository structure**
 ```bash
 .
-├── data/              # Datasets (DE, EL splits)
+├── data/              # Datasets (DE, EL into dev/train/test splits)
 ├── models/            # Trained models (to be added)
 ├── notebooks/
 │   └── toxic_classifier_training.ipynb #notebooks for experimentation
