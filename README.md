@@ -6,5 +6,20 @@ The classifier is designed to detect both explicit and implicit toxic language i
 The work emphasizes linguistically informed annotation and ethically grounded NLP practices.
 
 
-**datasets**
+**Datasets**
+
+The dataset consists of German (DE) and Greek (EL) data.
+The corpus has been split into training, development, and test sets.
+
+| Language    |Dev  |Train  |Test  |**Total**|
+| German (DE) |     |       |      |         |
+| Greek (EL)  |     |       |      |         |
+| **Total**   |     |       |      |         |
+
+**Team**
+Voula Giouli, Aristotle University of Thessaloniki & ILSP, ATHENA Research Centre
+Stella Markantonatou, ILSP, ATHENA Research Centre
+Antonis Balas, Aristotle University of Thessaloniki
+
+**To cite this work**
 
