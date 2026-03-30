@@ -10,9 +10,14 @@ The work emphasizes linguistically informed annotation and ethically grounded NL
 .
 ├── data/              # Datasets (DE, EL splits)
 ├── models/            # Trained models (to be added)
+├── notebooks/
+│   └── toxic_classifier_training.ipynb
 ├── src/               # Training, evaluation, inference scripts
 ├── results/           # Evaluation outputs
 └── README.md
+
+
+
 ```
 
 **Datasets**
