@@ -22,9 +22,11 @@ The work emphasizes linguistically informed annotation and ethically grounded NL
 
 **Datasets**
 
-The dataset consists of German (DE) and Greek (EL) data.
+The dataset consists of German (DE) and Greek (EL) data. The DE corpus comprises 210,518 tokens.
 
-The corpus has been split into training, development, and test sets.
+The corpus has been split into training, development, and test sets. 
+
+
 
 
 | Language     | Dev | Train | Test | Total |
@@ -33,6 +35,8 @@ The corpus has been split into training, development, and test sets.
 | Greek (EL)   |     |       |      |       |
 | **Total**    |     |       |      |       |
 
+
+The datasets were manually annotated by four trained linguists. To ensure data quality, inter-rater agreement was calculated. 
 
 **Team**
 
