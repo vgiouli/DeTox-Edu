@@ -31,7 +31,7 @@ The corpus has been split into training, development, and test sets.
 
 | Language     | Dev | Train | Test | Total |
 |--------------|-----|-------|------|-------|
-| German (DE)  |     |       |      |       |
+| German (DE)  | 805 |  6443 | 806  | 8054  |
 | Greek (EL)   |     |       |      |       |
 | **Total**    |     |       |      |       |
 
